@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="brp3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TCP-UDP.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Testweb.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
